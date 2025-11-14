@@ -1,0 +1,279 @@
+2025-11-13 10:47:16,785 [INFO] === Script de Actualización GitHub ===
+2025-11-13 10:47:16,785 [INFO] Repositorio local: C:/Users/Administrator/Documents/scripts/AI - Performance
+2025-11-13 10:47:16,786 [INFO] Archivo HTML fuente: C:/Users/Administrator/Documents/scripts/AI - Performance/Dashboard_final.html
+2025-11-13 10:47:16,838 [INFO] ERROR: El directorio no parece ser un repositorio Git: C:/Users/Administrator/Documents/scripts/AI - Performance
+2025-11-13 10:47:16,841 [INFO] Hubo errores durante el proceso
+2025-11-13 10:47:16,841 [INFO] Posibles soluciones:
+2025-11-13 10:47:16,841 [INFO] 1. Verifica que Git está instalado y en el PATH
+2025-11-13 10:47:16,842 [INFO] 2. Comprueba que las rutas son correctas
+2025-11-13 10:47:16,843 [INFO] 3. Asegúrate de tener permisos para escribir en el repositorio
+2025-11-13 10:47:16,843 [INFO] 4. Verifica tu conexión a internet para el push
+2025-11-13 10:47:38,326 [INFO] === Script de Actualización GitHub ===
+2025-11-13 10:47:38,327 [INFO] Repositorio local: C:/Users/Administrator/Documents/scripts/AI - Performance
+2025-11-13 10:47:38,327 [INFO] Archivo HTML fuente: C:/Users/Administrator/Documents/scripts/AI - Performance/Dashboard_final.html
+2025-11-13 10:47:38,359 [INFO] ERROR: El directorio no parece ser un repositorio Git: C:/Users/Administrator/Documents/scripts/AI - Performance
+2025-11-13 10:47:38,360 [INFO] Hubo errores durante el proceso
+2025-11-13 10:47:38,360 [INFO] Posibles soluciones:
+2025-11-13 10:47:38,360 [INFO] 1. Verifica que Git está instalado y en el PATH
+2025-11-13 10:47:38,360 [INFO] 2. Comprueba que las rutas son correctas
+2025-11-13 10:47:38,360 [INFO] 3. Asegúrate de tener permisos para escribir en el repositorio
+2025-11-13 10:47:38,360 [INFO] 4. Verifica tu conexión a internet para el push
+2025-11-13 11:03:16,819 [INFO] === Script de Actualización GitHub ===
+2025-11-13 11:03:16,820 [INFO] Repositorio local: C:/Users/Administrator/Documents/scripts/AI - Performance
+2025-11-13 11:03:16,820 [INFO] Archivo HTML fuente: C:/Users/Administrator/Documents/scripts/AI - Performance/Dashboard_final.html
+2025-11-13 11:03:16,857 [INFO] ERROR: El directorio no parece ser un repositorio Git: C:/Users/Administrator/Documents/scripts/AI - Performance
+2025-11-13 11:03:16,857 [INFO] Hubo errores durante el proceso
+2025-11-13 11:03:16,857 [INFO] Posibles soluciones:
+2025-11-13 11:03:16,857 [INFO] 1. Verifica que Git está instalado y en el PATH
+2025-11-13 11:03:16,858 [INFO] 2. Comprueba que las rutas son correctas
+2025-11-13 11:03:16,858 [INFO] 3. Asegúrate de tener permisos para escribir en el repositorio
+2025-11-13 11:03:16,858 [INFO] 4. Verifica tu conexión a internet para el push
+2025-11-13 11:19:39,398 [INFO] === Script de Actualización GitHub ===
+2025-11-13 11:19:39,399 [INFO] Repositorio local: C:/Users/Administrator/Documents/scripts/AI - Performance/performance
+2025-11-13 11:19:39,400 [INFO] Archivo HTML fuente: C:/Users/Administrator/Documents/scripts/AI - Performance/performance/Dashboard_final.html
+2025-11-13 11:19:39,475 [INFO] Configurando usuario Git...
+2025-11-13 11:19:39,546 [INFO] Añadiendo cambios al staging area...
+2025-11-13 11:19:44,299 [INFO] Creando commit...
+2025-11-13 11:19:44,789 [INFO] Haciendo pull --rebase para actualizar con cambios remotos...
+2025-11-13 11:19:44,832 [INFO] ERROR en comando Git: Command '['git', '-C', 'C:/Users/Administrator/Documents/scripts/AI - Performance/performance', 'pull', '--rebase', 'origin', 'main']' returned non-zero exit status 128.
+2025-11-13 11:19:44,833 [INFO] Mensaje de error: error: cannot pull with rebase: You have unstaged changes.
+error: Please commit or stash them.
+2025-11-13 11:19:44,833 [INFO] Hubo errores durante el proceso
+2025-11-13 11:19:44,833 [INFO] Posibles soluciones:
+2025-11-13 11:19:44,833 [INFO] 1. Verifica que Git está instalado y en el PATH
+2025-11-13 11:19:44,834 [INFO] 2. Comprueba que las rutas son correctas
+2025-11-13 11:19:44,834 [INFO] 3. Asegúrate de tener permisos para escribir en el repositorio
+2025-11-13 11:19:44,834 [INFO] 4. Verifica tu conexión a internet para el push
+2025-11-13 11:21:32,354 [INFO] === Script de Actualización GitHub ===
+2025-11-13 11:21:32,354 [INFO] Repositorio local: C:/Users/Administrator/Documents/scripts/AI - Performance/performance
+2025-11-13 11:21:32,354 [INFO] Archivo HTML fuente: C:/Users/Administrator/Documents/scripts/AI - Performance/performance/Dashboard_final.html
+2025-11-13 11:21:32,443 [INFO] Configurando usuario Git...
+2025-11-13 11:21:32,521 [INFO] Añadiendo cambios al staging area...
+2025-11-13 11:21:32,611 [INFO] Creando commit...
+2025-11-13 11:21:32,697 [INFO] Haciendo pull --rebase para actualizar con cambios remotos...
+2025-11-13 11:21:32,734 [INFO] ERROR en comando Git: Command '['git', '-C', 'C:/Users/Administrator/Documents/scripts/AI - Performance/performance', 'pull', '--rebase', 'origin', 'main']' returned non-zero exit status 128.
+2025-11-13 11:21:32,737 [INFO] Mensaje de error: error: cannot pull with rebase: You have unstaged changes.
+error: Please commit or stash them.
+2025-11-13 11:21:32,737 [INFO] Hubo errores durante el proceso
+2025-11-13 11:21:32,738 [INFO] Posibles soluciones:
+2025-11-13 11:21:32,738 [INFO] 1. Verifica que Git está instalado y en el PATH
+2025-11-13 11:21:32,738 [INFO] 2. Comprueba que las rutas son correctas
+2025-11-13 11:21:32,738 [INFO] 3. Asegúrate de tener permisos para escribir en el repositorio
+2025-11-13 11:21:32,739 [INFO] 4. Verifica tu conexión a internet para el push
+2025-11-13 13:45:40,040 [INFO] === Script de Actualización GitHub ===
+2025-11-13 13:45:40,040 [INFO] Repositorio local: C:/Users/Administrator/Documents/scripts/AI - Performance/performance
+2025-11-13 13:45:40,041 [INFO] Archivo HTML fuente: C:/Users/Administrator/Documents/scripts/AI - Performance/performance/Dashboard_final.html
+2025-11-13 13:45:40,072 [INFO] ERROR: El directorio del repositorio no existe: C:/Users/Administrator/Documents/scripts/AI - Performance/performance
+2025-11-13 13:45:40,072 [INFO] Por favor clona el repositorio primero o verifica la ruta.
+2025-11-13 13:45:40,073 [INFO] Hubo errores durante el proceso
+2025-11-13 13:45:40,073 [INFO] Posibles soluciones:
+2025-11-13 13:45:40,073 [INFO] 1. Verifica que Git está instalado y en el PATH
+2025-11-13 13:45:40,073 [INFO] 2. Comprueba que las rutas son correctas
+2025-11-13 13:45:40,073 [INFO] 3. Asegúrate de tener permisos para escribir en el repositorio
+2025-11-13 13:45:40,073 [INFO] 4. Verifica tu conexión a internet para el push
+2025-11-13 13:54:18,459 [INFO] === Script de Actualización GitHub ===
+2025-11-13 13:54:18,459 [INFO] Repositorio local: C:/Users/Administrator/Documents/scripts/AI - Performance/performance
+2025-11-13 13:54:18,460 [INFO] Archivo HTML fuente: C:/Users/Administrator/Documents/scripts/AI - Performance/performance/Dashboard_final.html
+2025-11-13 13:54:18,491 [INFO] ERROR: El directorio del repositorio no existe: C:/Users/Administrator/Documents/scripts/AI - Performance/performance
+2025-11-13 13:54:18,491 [INFO] Por favor clona el repositorio primero o verifica la ruta.
+2025-11-13 13:54:18,491 [INFO] Hubo errores durante el proceso
+2025-11-13 13:54:18,491 [INFO] Posibles soluciones:
+2025-11-13 13:54:18,491 [INFO] 1. Verifica que Git está instalado y en el PATH
+2025-11-13 13:54:18,491 [INFO] 2. Comprueba que las rutas son correctas
+2025-11-13 13:54:18,491 [INFO] 3. Asegúrate de tener permisos para escribir en el repositorio
+2025-11-13 13:54:18,492 [INFO] 4. Verifica tu conexión a internet para el push
+2025-11-13 14:08:15,740 [INFO] === Script de Actualización GitHub ===
+2025-11-13 14:08:15,741 [INFO] Repositorio local: C:/Users/Administrator/Documents/scripts/AI - Performance/performance
+2025-11-13 14:08:15,741 [INFO] Archivo HTML fuente: C:/Users/Administrator/Documents/scripts/AI - Performance/performance/Dashboard_final.html
+2025-11-13 14:08:15,772 [INFO] ERROR: El directorio del repositorio no existe: C:/Users/Administrator/Documents/scripts/AI - Performance/performance
+2025-11-13 14:08:15,772 [INFO] Por favor clona el repositorio primero o verifica la ruta.
+2025-11-13 14:08:15,772 [INFO] Hubo errores durante el proceso
+2025-11-13 14:08:15,772 [INFO] Posibles soluciones:
+2025-11-13 14:08:15,772 [INFO] 1. Verifica que Git está instalado y en el PATH
+2025-11-13 14:08:15,773 [INFO] 2. Comprueba que las rutas son correctas
+2025-11-13 14:08:15,773 [INFO] 3. Asegúrate de tener permisos para escribir en el repositorio
+2025-11-13 14:08:15,773 [INFO] 4. Verifica tu conexión a internet para el push
+2025-11-13 15:05:23,212 [INFO] === Script de Actualización GitHub ===
+2025-11-13 15:05:23,212 [INFO] Repositorio local: C:/Users/Administrator/Documents/scripts/AI-Performance
+2025-11-13 15:05:23,212 [INFO] Archivo HTML fuente: C:/Users/Administrator/Documents/scripts/AI-Performance/Dashboard_final.html
+2025-11-13 15:05:23,278 [INFO] Configurando usuario Git...
+2025-11-13 15:05:23,340 [INFO] Añadiendo cambios al staging area...
+2025-11-13 15:05:23,524 [INFO] Creando commit...
+2025-11-13 15:05:23,726 [INFO] Haciendo pull --rebase para actualizar con cambios remotos...
+2025-11-13 15:05:23,761 [INFO] ERROR en comando Git: Command '['git', '-C', 'C:/Users/Administrator/Documents/scripts/AI-Performance', 'pull', '--rebase', 'origin', 'main']' returned non-zero exit status 128.
+2025-11-13 15:05:23,761 [INFO] Mensaje de error: error: cannot pull with rebase: You have unstaged changes.
+error: Please commit or stash them.
+2025-11-13 15:05:23,761 [INFO] Hubo errores durante el proceso
+2025-11-13 15:05:23,762 [INFO] Posibles soluciones:
+2025-11-13 15:05:23,762 [INFO] 1. Verifica que Git está instalado y en el PATH
+2025-11-13 15:05:23,762 [INFO] 2. Comprueba que las rutas son correctas
+2025-11-13 15:05:23,762 [INFO] 3. Asegúrate de tener permisos para escribir en el repositorio
+2025-11-13 15:05:23,762 [INFO] 4. Verifica tu conexión a internet para el push
+2025-11-13 18:12:02,491 [INFO] === Script de Actualización GitHub ===
+2025-11-13 18:12:02,491 [INFO] Repositorio local: C:/Users/Administrator/Documents/scripts/AI-Performance
+2025-11-13 18:12:02,491 [INFO] Archivo HTML fuente: C:/Users/Administrator/Documents/scripts/AI-Performance/Dashboard_final.html
+2025-11-13 18:12:02,571 [INFO] Configurando usuario Git...
+2025-11-13 18:12:02,657 [INFO] Añadiendo cambios al staging area...
+2025-11-13 18:12:02,753 [INFO] Creando commit...
+2025-11-13 18:12:02,845 [INFO] Haciendo pull --rebase para actualizar con cambios remotos...
+2025-11-13 18:12:02,882 [INFO] ERROR en comando Git: Command '['git', '-C', 'C:/Users/Administrator/Documents/scripts/AI-Performance', 'pull', '--rebase', 'origin', 'main']' returned non-zero exit status 128.
+2025-11-13 18:12:02,883 [INFO] Mensaje de error: error: cannot pull with rebase: You have unstaged changes.
+error: Please commit or stash them.
+2025-11-13 18:12:02,883 [INFO] Hubo errores durante el proceso
+2025-11-13 18:12:02,883 [INFO] Posibles soluciones:
+2025-11-13 18:12:02,884 [INFO] 1. Verifica que Git está instalado y en el PATH
+2025-11-13 18:12:02,884 [INFO] 2. Comprueba que las rutas son correctas
+2025-11-13 18:12:02,884 [INFO] 3. Asegúrate de tener permisos para escribir en el repositorio
+2025-11-13 18:12:02,884 [INFO] 4. Verifica tu conexión a internet para el push
+2025-11-13 18:17:05,879 [INFO] === Script de Actualización GitHub ===
+2025-11-13 18:17:05,879 [INFO] Repositorio local: C:/Users/Administrator/Documents/scripts/AI-Performance
+2025-11-13 18:17:05,879 [INFO] Archivo HTML fuente: C:/Users/Administrator/Documents/scripts/AI-Performance/Dashboard_final.html
+2025-11-13 18:17:05,961 [INFO] Configurando usuario Git...
+2025-11-13 18:17:06,050 [INFO] Añadiendo cambios al staging area...
+2025-11-13 18:17:06,145 [INFO] Creando commit...
+2025-11-13 18:17:06,239 [INFO] Haciendo pull --rebase para actualizar con cambios remotos...
+2025-11-13 18:17:06,278 [INFO] ERROR en comando Git: Command '['git', '-C', 'C:/Users/Administrator/Documents/scripts/AI-Performance', 'pull', '--rebase', 'origin', 'main']' returned non-zero exit status 128.
+2025-11-13 18:17:06,278 [INFO] Mensaje de error: error: cannot pull with rebase: You have unstaged changes.
+error: Please commit or stash them.
+2025-11-13 18:17:06,279 [INFO] Hubo errores durante el proceso
+2025-11-13 18:17:06,279 [INFO] Posibles soluciones:
+2025-11-13 18:17:06,280 [INFO] 1. Verifica que Git está instalado y en el PATH
+2025-11-13 18:17:06,280 [INFO] 2. Comprueba que las rutas son correctas
+2025-11-13 18:17:06,280 [INFO] 3. Asegúrate de tener permisos para escribir en el repositorio
+2025-11-13 18:17:06,280 [INFO] 4. Verifica tu conexión a internet para el push
+2025-11-13 18:34:51,785 [INFO] === Script de Actualización GitHub ===
+2025-11-13 18:34:51,786 [INFO] Repositorio local: C:/Users/Administrator/Documents/scripts/AI-Performance
+2025-11-13 18:34:51,786 [INFO] Archivo HTML fuente: C:/Users/Administrator/Documents/scripts/AI-Performance/Dashboard_final.html
+2025-11-13 18:34:51,867 [INFO] Configurando usuario Git...
+2025-11-13 18:34:51,946 [INFO] Añadiendo cambios al staging area...
+2025-11-13 18:34:52,038 [INFO] Creando commit...
+2025-11-13 18:34:52,122 [INFO] Haciendo pull --rebase para actualizar con cambios remotos...
+2025-11-13 18:34:52,158 [INFO] ERROR en comando Git: Command '['git', '-C', 'C:/Users/Administrator/Documents/scripts/AI-Performance', 'pull', '--rebase', 'origin', 'main']' returned non-zero exit status 128.
+2025-11-13 18:34:52,159 [INFO] Mensaje de error: error: cannot pull with rebase: You have unstaged changes.
+error: Please commit or stash them.
+2025-11-13 18:34:52,159 [INFO] Hubo errores durante el proceso
+2025-11-13 18:34:52,159 [INFO] Posibles soluciones:
+2025-11-13 18:34:52,159 [INFO] 1. Verifica que Git está instalado y en el PATH
+2025-11-13 18:34:52,160 [INFO] 2. Comprueba que las rutas son correctas
+2025-11-13 18:34:52,160 [INFO] 3. Asegúrate de tener permisos para escribir en el repositorio
+2025-11-13 18:34:52,160 [INFO] 4. Verifica tu conexión a internet para el push
+2025-11-13 18:35:43,520 [INFO] === Script de Actualización GitHub ===
+2025-11-13 18:35:43,520 [INFO] Repositorio local: C:/Users/Administrator/Documents/scripts/AI-Performance
+2025-11-13 18:35:43,520 [INFO] Archivo HTML fuente: C:/Users/Administrator/Documents/scripts/AI-Performance/Dashboard_final.html
+2025-11-13 18:35:43,602 [INFO] Configurando usuario Git...
+2025-11-13 18:35:43,680 [INFO] Añadiendo cambios al staging area...
+2025-11-13 18:35:43,771 [INFO] Creando commit...
+2025-11-13 18:35:43,855 [INFO] Haciendo pull --rebase para actualizar con cambios remotos...
+2025-11-13 18:35:43,890 [INFO] ERROR en comando Git: Command '['git', '-C', 'C:/Users/Administrator/Documents/scripts/AI-Performance', 'pull', '--rebase', 'origin', 'main']' returned non-zero exit status 128.
+2025-11-13 18:35:43,891 [INFO] Mensaje de error: error: cannot pull with rebase: You have unstaged changes.
+error: Please commit or stash them.
+2025-11-13 18:35:43,892 [INFO] Hubo errores durante el proceso
+2025-11-13 18:35:43,892 [INFO] Posibles soluciones:
+2025-11-13 18:35:43,893 [INFO] 1. Verifica que Git está instalado y en el PATH
+2025-11-13 18:35:43,893 [INFO] 2. Comprueba que las rutas son correctas
+2025-11-13 18:35:43,893 [INFO] 3. Asegúrate de tener permisos para escribir en el repositorio
+2025-11-13 18:35:43,893 [INFO] 4. Verifica tu conexión a internet para el push
+2025-11-14 04:53:13,938 [INFO] === Script de Actualización GitHub ===
+2025-11-14 04:53:13,938 [INFO] Repositorio local: C:/Users/Administrator/Documents/scripts/AI-Performance
+2025-11-14 04:53:13,938 [INFO] Archivo HTML fuente: C:/Users/Administrator/Documents/scripts/AI-Performance/Dashboard_final.html
+2025-11-14 04:53:14,005 [INFO] Configurando usuario Git...
+2025-11-14 04:53:14,069 [INFO] Añadiendo cambios al staging area...
+2025-11-14 04:53:14,534 [INFO] Creando commit...
+2025-11-14 04:53:14,730 [INFO] Haciendo pull --rebase para actualizar con cambios remotos...
+2025-11-14 04:53:15,573 [INFO] Subiendo cambios al repositorio remoto...
+2025-11-14 04:53:16,257 [INFO] ERROR en comando Git: Command '['git', '-C', 'C:/Users/Administrator/Documents/scripts/AI-Performance', 'push', 'origin', 'main']' returned non-zero exit status 128.
+2025-11-14 04:53:16,257 [INFO] Mensaje de error: remote: Invalid username or token. Password authentication is not supported for Git operations.
+fatal: Authentication failed for 'https://github.com/bidatawkg/AI-Performance.git/'
+2025-11-14 04:53:16,257 [INFO] Hubo errores durante el proceso
+2025-11-14 04:53:16,258 [INFO] Posibles soluciones:
+2025-11-14 04:53:16,258 [INFO] 1. Verifica que Git está instalado y en el PATH
+2025-11-14 04:53:16,258 [INFO] 2. Comprueba que las rutas son correctas
+2025-11-14 04:53:16,258 [INFO] 3. Asegúrate de tener permisos para escribir en el repositorio
+2025-11-14 04:53:16,258 [INFO] 4. Verifica tu conexión a internet para el push
+2025-11-14 08:36:10,484 [INFO] === Script de Actualización GitHub ===
+2025-11-14 08:36:10,485 [INFO] Repositorio local: C:/Users/Administrator/Documents/scripts/AI-Performance
+2025-11-14 08:36:10,486 [INFO] Archivo HTML fuente: C:/Users/Administrator/Documents/scripts/AI-Performance/Dashboard_final.html
+2025-11-14 08:36:10,582 [INFO] Configurando usuario Git...
+2025-11-14 08:36:10,682 [INFO] Añadiendo cambios al staging area...
+2025-11-14 08:36:10,781 [INFO] No hay cambios para confirmar
+2025-11-14 08:36:10,781 [INFO] Proceso completado con éxito
+2025-11-14 08:42:18,343 [INFO] === Script de Actualización GitHub ===
+2025-11-14 08:42:18,344 [INFO] Repositorio local: C:/Users/Administrator/Documents/scripts/AI-Performance
+2025-11-14 08:42:18,344 [INFO] Archivo HTML fuente: C:/Users/Administrator/Documents/scripts/AI-Performance/Dashboard_final.html
+2025-11-14 08:42:18,430 [INFO] Configurando usuario Git...
+2025-11-14 08:42:18,510 [INFO] Añadiendo cambios al staging area...
+2025-11-14 08:42:18,604 [INFO] Creando commit...
+2025-11-14 08:42:18,692 [INFO] Haciendo pull --rebase para actualizar con cambios remotos...
+2025-11-14 08:42:18,728 [INFO] ERROR en comando Git: Command '['git', '-C', 'C:/Users/Administrator/Documents/scripts/AI-Performance', 'pull', '--rebase', 'origin', 'main']' returned non-zero exit status 128.
+2025-11-14 08:42:18,730 [INFO] Mensaje de error: error: cannot pull with rebase: You have unstaged changes.
+error: Please commit or stash them.
+2025-11-14 08:42:18,731 [INFO] Hubo errores durante el proceso
+2025-11-14 08:42:18,731 [INFO] Posibles soluciones:
+2025-11-14 08:42:18,732 [INFO] 1. Verifica que Git está instalado y en el PATH
+2025-11-14 08:42:18,732 [INFO] 2. Comprueba que las rutas son correctas
+2025-11-14 08:42:18,732 [INFO] 3. Asegúrate de tener permisos para escribir en el repositorio
+2025-11-14 08:42:18,732 [INFO] 4. Verifica tu conexión a internet para el push
+2025-11-14 08:44:57,518 [INFO] === Script de Actualización GitHub ===
+2025-11-14 08:44:57,518 [INFO] Repositorio local: C:/Users/Administrator/Documents/scripts/AI-Performance
+2025-11-14 08:44:57,519 [INFO] Archivo HTML fuente: C:/Users/Administrator/Documents/scripts/AI-Performance/Dashboard_final.html
+2025-11-14 08:44:57,610 [INFO] Configurando usuario Git...
+2025-11-14 08:44:57,685 [INFO] Añadiendo cambios al staging area...
+2025-11-14 08:44:57,779 [INFO] Creando commit...
+2025-11-14 08:44:57,868 [INFO] Haciendo pull --rebase para actualizar con cambios remotos...
+2025-11-14 08:44:57,914 [INFO] ERROR en comando Git: Command '['git', '-C', 'C:/Users/Administrator/Documents/scripts/AI-Performance', 'pull', '--rebase', 'origin', 'main']' returned non-zero exit status 128.
+2025-11-14 08:44:57,915 [INFO] Mensaje de error: error: cannot pull with rebase: You have unstaged changes.
+error: Please commit or stash them.
+2025-11-14 08:44:57,916 [INFO] Hubo errores durante el proceso
+2025-11-14 08:44:57,916 [INFO] Posibles soluciones:
+2025-11-14 08:44:57,916 [INFO] 1. Verifica que Git está instalado y en el PATH
+2025-11-14 08:44:57,916 [INFO] 2. Comprueba que las rutas son correctas
+2025-11-14 08:44:57,916 [INFO] 3. Asegúrate de tener permisos para escribir en el repositorio
+2025-11-14 08:44:57,917 [INFO] 4. Verifica tu conexión a internet para el push
+2025-11-14 08:46:59,751 [INFO] === Script de Actualización GitHub ===
+2025-11-14 08:46:59,751 [INFO] Repositorio local: C:/Users/Administrator/Documents/scripts/AI-Performance
+2025-11-14 08:46:59,752 [INFO] Archivo HTML fuente: C:/Users/Administrator/Documents/scripts/AI-Performance/Dashboard_final.html
+2025-11-14 08:46:59,841 [INFO] Configurando usuario Git...
+2025-11-14 08:46:59,925 [INFO] Añadiendo cambios al staging area...
+2025-11-14 08:47:00,020 [INFO] Creando commit...
+2025-11-14 08:47:00,112 [INFO] Haciendo pull --rebase para actualizar con cambios remotos...
+2025-11-14 08:47:00,161 [INFO] ERROR en comando Git: Command '['git', '-C', 'C:/Users/Administrator/Documents/scripts/AI-Performance', 'pull', '--rebase', 'origin', 'main']' returned non-zero exit status 128.
+2025-11-14 08:47:00,162 [INFO] Mensaje de error: error: cannot pull with rebase: You have unstaged changes.
+error: Please commit or stash them.
+2025-11-14 08:47:00,162 [INFO] Hubo errores durante el proceso
+2025-11-14 08:47:00,162 [INFO] Posibles soluciones:
+2025-11-14 08:47:00,163 [INFO] 1. Verifica que Git está instalado y en el PATH
+2025-11-14 08:47:00,163 [INFO] 2. Comprueba que las rutas son correctas
+2025-11-14 08:47:00,163 [INFO] 3. Asegúrate de tener permisos para escribir en el repositorio
+2025-11-14 08:47:00,164 [INFO] 4. Verifica tu conexión a internet para el push
+2025-11-14 08:47:27,671 [INFO] === Script de Actualización GitHub ===
+2025-11-14 08:47:27,672 [INFO] Repositorio local: C:/Users/Administrator/Documents/scripts/AI-Performance
+2025-11-14 08:47:27,672 [INFO] Archivo HTML fuente: C:/Users/Administrator/Documents/scripts/AI-Performance/Dashboard_final.html
+2025-11-14 08:47:27,753 [INFO] Configurando usuario Git...
+2025-11-14 08:47:27,833 [INFO] Añadiendo cambios al staging area...
+2025-11-14 08:47:27,926 [INFO] Creando commit...
+2025-11-14 08:47:28,014 [INFO] Haciendo pull --rebase para actualizar con cambios remotos...
+2025-11-14 08:47:28,051 [INFO] ERROR en comando Git: Command '['git', '-C', 'C:/Users/Administrator/Documents/scripts/AI-Performance', 'pull', '--rebase', 'origin', 'main']' returned non-zero exit status 128.
+2025-11-14 08:47:28,051 [INFO] Mensaje de error: error: cannot pull with rebase: You have unstaged changes.
+error: Please commit or stash them.
+2025-11-14 08:47:28,052 [INFO] Hubo errores durante el proceso
+2025-11-14 08:47:28,052 [INFO] Posibles soluciones:
+2025-11-14 08:47:28,052 [INFO] 1. Verifica que Git está instalado y en el PATH
+2025-11-14 08:47:28,052 [INFO] 2. Comprueba que las rutas son correctas
+2025-11-14 08:47:28,052 [INFO] 3. Asegúrate de tener permisos para escribir en el repositorio
+2025-11-14 08:47:28,052 [INFO] 4. Verifica tu conexión a internet para el push
+2025-11-14 08:47:41,005 [INFO] === Script de Actualización GitHub ===
+2025-11-14 08:47:41,008 [INFO] Repositorio local: C:/Users/Administrator/Documents/scripts/AI-Performance
+2025-11-14 08:47:41,008 [INFO] Archivo HTML fuente: C:/Users/Administrator/Documents/scripts/AI-Performance/Dashboard_final.html
+2025-11-14 08:47:41,104 [INFO] Configurando usuario Git...
+2025-11-14 08:47:41,189 [INFO] Añadiendo cambios al staging area...
+2025-11-14 08:47:41,282 [INFO] Creando commit...
+2025-11-14 08:47:41,368 [INFO] Haciendo pull --rebase para actualizar con cambios remotos...
+2025-11-14 08:47:41,403 [INFO] ERROR en comando Git: Command '['git', '-C', 'C:/Users/Administrator/Documents/scripts/AI-Performance', 'pull', '--rebase', 'origin', 'main']' returned non-zero exit status 128.
+2025-11-14 08:47:41,404 [INFO] Mensaje de error: error: cannot pull with rebase: You have unstaged changes.
+error: Please commit or stash them.
+2025-11-14 08:47:41,404 [INFO] Hubo errores durante el proceso
+2025-11-14 08:47:41,405 [INFO] Posibles soluciones:
+2025-11-14 08:47:41,405 [INFO] 1. Verifica que Git está instalado y en el PATH
+2025-11-14 08:47:41,405 [INFO] 2. Comprueba que las rutas son correctas
+2025-11-14 08:47:41,405 [INFO] 3. Asegúrate de tener permisos para escribir en el repositorio
+2025-11-14 08:47:41,405 [INFO] 4. Verifica tu conexión a internet para el push

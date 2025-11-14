@@ -1,0 +1,25 @@
+# Never commit environment files
+.env
+*.env
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Jupyter notebooks metadata
+.ipynb_checkpoints/
+
+# Temporary / log files
+*.log
+*.tmp
+
+# OS-specific junk
+.DS_Store
+Thumbs.db
+
+# Files folder
+/aiPerformanceFiles/
+
+#Github file
+github_upload_Performance.py

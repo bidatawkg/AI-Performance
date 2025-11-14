@@ -1,0 +1,1 @@
+window.VVIP_INSIGHTS = {};
