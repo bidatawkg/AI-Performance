@@ -1732,7 +1732,7 @@ sql
     
     
     # =========================
-    # Previous windows — OTHERS
+    # Previous windows  OTHERS
     # =========================
     query <- "
   DECLARE @Yesterday DATE = DATEADD(DAY, -1, CAST(GETDATE() AS DATE));
